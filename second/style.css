@@ -1,0 +1,22 @@
+.box1 {
+    width: 33%;
+    color: #3399ff;
+}
+
+.box2 {
+    width: 33%;
+    color: #66ffcc;
+}
+
+.box3 {
+    width: 33%;
+    color: #ccff99;
+}
+
+.box {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 33%;
+    height: 20px;
+}
