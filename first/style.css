@@ -1,0 +1,27 @@
+.box1 {
+    width: 100%;
+    height: 200px;
+    background: #ff5050
+}
+
+.box2 {
+    width: 100%;
+    height: 300px;
+    background: #ffd633
+}
+
+.box3 {
+    width: 100%;
+    height: 100px;
+    background: #00cc00
+}
+
+.box4 {
+    width: 100%;
+    background: #3366ff
+}
+
+.box5 {
+    width: 100%;
+    background: #3366ff
+}
