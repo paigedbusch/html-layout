@@ -1,22 +1,38 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
 .box1 {
-    width: 33%;
-    color: #3399ff;
+    width: calc(100% / 3);
+    height: 100vh;
+    background-color: #3399ff;
+    float: left;
 }
 
 .box2 {
-    width: 33%;
-    color: #66ffcc;
+    width: calc(100% / 3);
+    height: 100vh;
+    background-color: #66ffcc;
+    float: left;
 }
 
 .box3 {
-    width: 33%;
-    color: #ccff99;
-}
+    width: calc(100% / 3);
+    height: 100vh;
+    background-color: #ccff99;
+    float: left;
+    }
 
-.box {
+.box4 {
     position: absolute;
     bottom: 0px;
     right: 0px;
-    width: 33%;
-    height: 20px;
+    width: calc(100% / 3);
+    height: 20vh;
+    background-color: #ff0000;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
